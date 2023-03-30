@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import BarChart from "./pages/BarChart"
+
 import {BrowserRouter} from "react-router-dom";
 
 
